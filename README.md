@@ -1,3 +1,4 @@
+![Olist E-Commerce Analytics Dashboard](visualisations/Olist%20E-Commerce%20Analytics%20Dashboard.png)
 # Brazilian E-Commerce Data Analytics | CodeAlpha Internship Project
 
 **Author:** Emmanuel Chimaobi Nebo  
