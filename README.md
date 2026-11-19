@@ -39,6 +39,16 @@ The analysis uses nine interconnected tables from the Brazilian E-Commerce Publi
 | Geolocation | Brazilian geographical coordinates |
 | Category Translation | Portuguese-to-English category mapping |
 
+### Dataset Source
+
+The dataset used in this project is the **Brazilian E-Commerce Public Dataset by Olist**, publicly available on Kaggle.
+
+- **Source:** [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Coverage:** Approximately 100,000 orders from 2016 to 2018.
+- **Format:** CSV files.
+
+**Note:** The raw dataset files are not included in this repository due to their size. Users can download the original dataset from the source link above to reproduce the analysis.
+
 ## Tools and Technologies
 
 - **Python:** Core analysis and data processing.
