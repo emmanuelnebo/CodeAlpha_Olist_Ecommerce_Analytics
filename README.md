@@ -123,3 +123,23 @@ The findings provide practical insights that can support better operational moni
 
 **Developed by Emmanuel Chimaobi Nebo**  
 *CodeAlpha Data Analytics Internship*
+
+
+---
+
+## Project Visualisations
+
+### 1. Monthly Revenue Trend
+![Monthly Revenue Trend](Monthly%20Revenue%20Trend.png)
+
+### 2. Customer Review Score Distribution
+![Customer Review Score Distribution](Customer%20review%20score%20distribution.png)
+
+### 3. Customer Satisfaction
+![Customer Satisfaction](Customer%20Satisfaction.png)
+
+### 4. Customer Review Sentiment Distribution
+![Customer Review Sentiment](Distribution%20of%20Customer%20review%20sentiment.png)
+
+### 5. Sentiment Model Validation
+![Sentiment Model Validation](Sentiment%20Model%20Validation.png)
